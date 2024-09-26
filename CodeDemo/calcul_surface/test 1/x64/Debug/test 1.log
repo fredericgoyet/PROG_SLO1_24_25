@@ -1,0 +1,8 @@
+﻿  demoSLO.c
+C:\Fre goy\programmation\test 1\test 1\demoSLO.c(52,20): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Fre goy\programmation\test 1\test 1\demoSLO.c(54,31): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Fre goy\programmation\test 1\test 1\demoSLO.c(58,35): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Fre goy\programmation\test 1\test 1\demoSLO.c(62,46): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Fre goy\programmation\test 1\test 1\demoSLO.c(66,33): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+C:\Fre goy\programmation\test 1\test 1\demoSLO.c(66,26): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Fre goy\programmation\test 1\test 1\demoSLO.c(66): error C4700: variable locale 'rayon' non initialisée utilisée
